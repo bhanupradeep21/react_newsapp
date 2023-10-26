@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 27,
+  "articles": [
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Dan Balz, Scott Clement, Emily Guskin",
+      "title": "Post-ABC poll: Biden faces criticism on economy, immigration and age",
+      "description": "The finding that Trump leads Biden by a wide margin does not match other recent polling, however, suggesting it is an outlier.",
+      "url": "https://www.washingtonpost.com/politics/2023/09/24/biden-trump-poll-2024-election/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OEUUALK2MCEAY3LQWQZIHXZE5A.JPG&w=1440",
+      "publishedAt": "2023-09-24T04:01:00Z",
+      "content": "Comment on this story\r\nComment\r\nA Washington Post-ABC News poll finds President Biden struggling to gain approval from a skeptical public, with dissatisfaction growing over his handling of the econom… [+12002 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": null,
+      "title": "George Conway on Giuliani's 'problem' amid Cassidy Hutchinson's allegations - CNN Video",
+      "description": "Conservative lawyer George Conway discusses what he thinks about Rudy Giuliani following Cassidy Hutchinson's allegations against the former Trump attorney. Hutchinson, the former Trump White House aide, claims in her new book that Giuliani groped her backsta…",
+      "url": "https://www.cnn.com/videos/politics/2023/09/23/rudy-giuliani-january-6-cassidy-hutchinson-book-allegations-conway-acostanr-vpx.cnn",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230918222002-rudy-giuliani-082023-super-tease.jpg",
+      "publishedAt": "2023-09-23T23:22:13.9275003Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": null,
+      "title": "Book excerpt: \"Enough\" by Cassidy Hutchinson",
+      "description": "The former White House staffer who testified about the actions of former President Donald Trump during the insurrection writes of her experience as a witness before the January 6 Committee.",
+      "url": "https://www.cbsnews.com/news/book-excerpt-enough-by-cassidy-hutchinson/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/23/2fe100fe-928d-4e50-ae07-8ce3d5586353/thumbnail/1200x630/0da05b150ec6affe14b28fb9acce8f59/enough-cover-simon-and-schuster-660.jpg?v=f5251b37272e6b1bc4e5456ab4445a67",
+      "publishedAt": "2023-09-23T21:59:18+00:00",
+      "content": "Simon &amp; Schuster\r\nWe may receive an affiliate commission from anything you buy from this article.\r\nCassidy Hutchinson was senior advisor to White House chief of staff Mark Meadows at the time of … [+6477 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "Aaron Navarro",
+      "title": "DeSantis campaign pre-debate memo criticizes Trump, is dismissive of other rivals despite polling gap closing",
+      "description": "The memo, first obtained by CBS News, argues the \"fundamentals\" of the race haven't changed.",
+      "url": "https://www.cbsnews.com/news/desantis-campaign-pre-debate-memo-criticizes-trump/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/19/d470a7e0-6c4b-4b47-8e00-38ed0511276b/thumbnail/1200x630g2/f46206ca888d2ce7ee04c47f4dce8516/gettyimages-1679579238.jpg?v=f5251b37272e6b1bc4e5456ab4445a67",
+      "publishedAt": "2023-09-23T21:28:00+00:00",
+      "content": "A memo sent to donors Saturday from the presidential campaign of Florida Gov. Ron DeSantis criticizes former President Donald Trump and dismisses other GOP rivals, even as his own polling numbers dro… [+3863 chars]"
+    },
+    {
+      "source": { "id": "cnn-es", "name": "CNN Spanish" },
+      "author": "Sol Amaya",
+      "title": "Cómo una teoría conspirativa sobre JFK, Trump y Jesús destrozó vidas y familias",
+      "description": "Michael Protzman se había convertido en la figura principal de una rama de QAnon que creía en la teoría conspirativa de que John F. Kennedy Jr., quien murió en un accidente aéreo cerca de Martha's Vineyard en 1999, estaba vivo y trabajando en secreto con el e…",
+      "url": "https://cnnespanol.cnn.com/2023/09/23/teoria-conspirativa-jfk-trump-jesus-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/09/230922155549-01-cult-leader-victim-protzman.jpg?quality=100&strip=info",
+      "publishedAt": "2023-09-23T16:30:44Z",
+      "content": "Cómo las teorías de la conspiración están destrozando a las familias estadounidenses. Donie O'Sullivan de CNN Investiga en \"Waiting for JFK: Report from the Fringe\", en \"The Whole Story with Anderson… [+16557 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Lauren DeBellis Appell",
+      "title": "Country music’s Maren Morris goes woke, blasts Trump. Why did she take her ’80s Mercedes out of town?",
+      "description": "Country music star Maren Morris made a startling announcement recently. She's leaving the genre that shot her to fame. And she's blaming Donald Trump.",
+      "url": "https://www.foxnews.com/opinion/country-musics-maren-morris-woke-blasts-trump-take-mercedes",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/Maren-Morris-Getty-2023.jpg",
+      "publishedAt": "2023-09-23T12:00:17Z",
+      "content": "Maren Morris announced shes leaving country music, and in case you havent heard its all Donald Trumps fault. Country music fans everywhere should send the former president a thank you note. \r\nShe cla… [+6445 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Daniel Strauss, Jeff Zeleny",
+      "title": "As DeSantis falters, the race for second place in the GOP primary is open again",
+      "description": "A furious scramble for second place is underway in the crowded Republican primary contest, with candidates vying for an opportunity to directly take on front-runner Donald Trump. The position, once held by Florida Gov. Ron DeSantis, now appears to be more of …",
+      "url": "https://www.cnn.com/2023/09/23/politics/republican-primary-president-second-place/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230922191401-ron-desantis-06262023.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-09-23T10:01:37Z",
+      "content": "A furious scramble for second place is underway in the crowded Republican primary contest, with candidates vying for an opportunity to directly take on front-runner Donald Trump. The position, once h… [+5334 chars]"
+    },
+    {
+      "source": { "id": "msnbc", "name": "MSNBC" },
+      "author": "Robert Creamer",
+      "title": "What the downfall of Project Veritas may predict about Trump",
+      "description": "The right-wing group Project Veritas this week suspended operations. As one of its targets, I know America — and democracy — are safer now that it's gone.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/project-veritas-james-okeefe-trump-rcna116904",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230922-james-o-keefe-project-veritas-mn-1305-27872d.jpg",
+      "publishedAt": "2023-09-23T10:00:00Z",
+      "content": "During its 13-year history, the right-wing group Project Veritas tried to infiltrate progressive organizations, political campaigns and mainstream media organizations, and it published selectively ed… [+8860 chars]"
+    },
+    {
+      "source": { "id": "msnbc", "name": "MSNBC" },
+      "author": "Jen Psaki",
+      "title": "What Hillary Clinton sees in Trump’s lies",
+      "description": "In an new interview for \"Inside with Jen Psaki,\" Hillary Clinton offered an interesting insight into how Donald Trump operates.",
+      "url": "https://www.msnbc.com/inside-with-jen-psaki/hillary-clinton-jen-psaki-interview-rcna111455",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230922-hillary-clinton-donald-trump-mjf-1644-6ad7cc.jpg",
+      "publishedAt": "2023-09-23T10:00:00Z",
+      "content": "Hillary Clintons insight into Trump\r\nThere are few people more experienced in dealing with the twisted brain space of Donald Trump than Hillary Clinton. And when I asked her during an interview that … [+4810 chars]"
+    },
+    {
+      "source": { "id": "msnbc", "name": "MSNBC" },
+      "author": "Eric Garcia",
+      "title": "Gen. Mark Milley's disturbing reminder about Trump's disdain for wounded vets",
+      "description": "Gen. Mark Milley shared with The Atlantic a disturbing anecdote that reveals former President Donald Trump's opinion of wounded veterans.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/gen-mark-milleys-disturbing-reminder-trumps-disdain-wounded-vets-rcna111476",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230921-disabled-veteran-usa-prosthetic-leg-2005p-442268.jpg",
+      "publishedAt": "2023-09-22T21:46:53Z",
+      "content": "In The Atlantics profile of Gen. Mark Milley, the outgoing chairman of the Joint Chiefs of Staff, the general shared an anecdote that serves as a shocking reminder of former President Donald Trumps d… [+5779 chars]"
+    },
+    {
+      "source": { "id": "msnbc", "name": "MSNBC" },
+      "author": null,
+      "title": "'It was something': Tempers flare in pre-trial hearing in NY AG's Trump fraud suit",
+      "description": "New York Times Investigative Reporter Susanne Craig and former Deputy Assistant Attorney General Harry Litman join Nicolle Wallace to discuss the pre-trial conference for New York Attorney General Letitia James' $250 million fraud suit against Donald Trump an…",
+      "url": "https://www.msnbc.com/deadline-white-house/watch/-it-was-something-tempers-flare-in-pre-trial-hearing-in-ny-ag-s-trump-fraud-suit-193584709932",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2023_09/1695418513242_n_wh_deadline_craig_230922_1920x1080-17euek.jpg",
+      "publishedAt": "2023-09-22T21:35:36Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-huffington-post", "name": "The Huffington Post" },
+      "author": "Sebastian Murdock",
+      "title": "Hillary Clinton: Trump 'Engaged In What Psychologists Call Projection'",
+      "description": "\"Whenever [Trump] accuses somebody else of doing something, it's almost guaranteed he's doing it himself or he's already done it,” Clinton said on MSNBC.",
+      "url": "https://www.huffpost.com/entry/hilary-clinton-trump-engaged-in-what-psychologists-call-projection_n_650dc043e4b02a26c5c423d7",
+      "urlToImage": "https://img.huffingtonpost.com/asset/650dc8402400003200b0b146.jpeg?ops=1200_630",
+      "publishedAt": "2023-09-22T17:27:13Z",
+      "content": "Hillary Clinton blasted former President Donald Trump, saying his behavior is what psychologists call projection.\r\nIn an interview set to air on Sunday, the former U.S. secretary of state and 2016 De… [+1207 chars]"
+    },
+    {
+      "source": { "id": "msnbc", "name": "MSNBC" },
+      "author": "Brian Tyler Cohen",
+      "title": "Why Donald Trump should worry about going to jail",
+      "description": "In Trump's \"Meet the Press\" interview, he claimed he \"doesn't think\" about jail. That he doesn’t think about it is about as believable as his not thinking about attention.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/trump-jail-time-sentence-charges-indictments-rcna111345",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230921-donald-trump-al-1157-d471d6.jpg",
+      "publishedAt": "2023-09-22T15:34:13Z",
+      "content": "Because everything that Donald Trump does is steeped in denial of reality, when NBC News Kristen Welker asked him whether he worries about going to jail, he responded, I dont even think about it.\r\nTh… [+3986 chars]"
+    },
+    {
+      "source": { "id": "msnbc", "name": "MSNBC" },
+      "author": "Steve Benen",
+      "title": "Why Milley’s story about Trump and an injured vet is so easy to believe",
+      "description": "Retiring Gen. Mark Milley has a brutal perspective on Donald Trump. The outgoing chairman of the Joint Chiefs of Staff's claims are very easy to believe.",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/milleys-story-trump-injured-vet-easy-believe-rcna116858",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-06/230602-mark-milley-donald-trump-se-405p-4b0c35.jpg",
+      "publishedAt": "2023-09-22T13:23:50Z",
+      "content": "Theres an enormous amount to unpack in Jeffrey Goldbergs new report in The Atlantic on retiring Gen. Mark Milley, the outgoing chairman of the Joint Chiefs of Staff, but one anecdote in particular st… [+3820 chars]"
+    },
+    {
+      "source": { "id": "msnbc", "name": "MSNBC" },
+      "author": "Joy-Ann Reid",
+      "title": "3 reasons no lawyer should ever want Trump as a client",
+      "description": "Being Donald Trump's lawyer may be one of the hardest jobs in America. Just ask Rudy Giuliani or Evan Corcoran.",
+      "url": "https://www.msnbc.com/the-reidout/reidout-blog/joy-reid-trump-lawyers-giuliani-rcna108043",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230920-trump-giuliuni-mjf-1557-93a5b3.jpg",
+      "publishedAt": "2023-09-20T20:03:45Z",
+      "content": "Being Donald Trump's lawyer may be one of the hardest jobs in America.\r\nFirst, you have to worry about whether you will ever be paid by a man often accused of skipping out on paying his bills includi… [+2433 chars]"
+    },
+    {
+      "source": { "id": "axios", "name": "Axios" },
+      "author": "Erin Doherty",
+      "title": "Trump supporter Ray Epps sues Fox News for defamation over Jan. 6 \"falsehoods\"",
+      "description": "Epps became the center of a unfounded conspiracy theory after Jan. 6. that named him as a FBI agent who helped incite the attack.",
+      "url": "https://www.axios.com/2023/07/12/ray-epps-sues-fox-news-defamation-jan-6",
+      "urlToImage": "https://images.axios.com/U-78RJJdmiUWR9VeygM4t1M5iRI=/0x625:6000x4000/1366x768/2023/07/12/1689197347452.jpg",
+      "publishedAt": "2023-07-12T21:49:15Z",
+      "content": "Fox News was sued for defamation Wednesday by Trump supporter Ray Epps, who alleges the network and host Tucker Carlson spread a \"fantastical story\" about him.\r\nDriving the news: Epps, who emerged at… [+1259 chars]"
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Aila Slisco",
+      "title": "Trump Alleges Plot Against Him to 'Take Down the Leading Candidate'",
+      "description": "Following a report of an impending criminal indictment in New York, Trump said that prosecutors were \"trying to take down the leading candidate\" for 2024.",
+      "url": "https://www.newsweek.com/trump-alleges-plot-against-him-take-down-leading-candidate-1786806",
+      "urlToImage": "https://d.newsweek.com/en/full/2206963/donald-trump-indictment-plot-theory-2024-election.jpg",
+      "publishedAt": "2023-03-10T05:39:13Z",
+      "content": "Former President Donald Trump is lashing out and claiming to be the victim of a \"weaponized justice system\" following a report that he may soon be facing a criminal indictment in New York.\r\nThe New Y… [+3534 chars]"
+    },
+    {
+      "source": { "id": "the-globe-and-mail", "name": "The Globe And Mail" },
+      "author": "Lawrence Martin",
+      "title": "Liz Cheney is making headway in slaying the Trump dragon",
+      "description": "By spearheading congressional hearings into the Jan. 6 attack on the Capitol, the representative is fast becoming an American heroine",
+      "url": "https://www.theglobeandmail.com/opinion/article-liz-cheney-is-making-headway-in-slaying-the-trump-dragon/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/wCgPPEAVIFE4MLAb_xauhJzJqLI=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/YT6S7Z443RL23MYNL4VZY4WXRQ.jpg",
+      "publishedAt": "2022-06-15T19:24:08Z",
+      "content": "Vice Chair Liz Cheney, Rep. Adam Schiff, and Rep. Adam Kinzinger, stand together during a break as the House select committee investigating the Jan. 6 attack on the U.S. Capitol holds its first publi… [+4635 chars]"
+    },
+    {
+      "source": { "id": "fortune", "name": "Fortune" },
+      "author": "Eamon Barrett",
+      "title": "A new report shows how badly the Trump administration slashed the U.S.’s climate credentials",
+      "description": "The ranking from Yale University says decisions made by the Trump administration slashed the country's climate credentials",
+      "url": "https://fortune.com/2022/06/01/trump-us-climate-action-paris-accord-methane-yale-environmental-performance-index/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/06/GettyImages-1342340441-e1654072113634.jpg?resize=1200,600",
+      "publishedAt": "2022-06-01T10:31:29Z",
+      "content": "Skip to Content"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Rachel Frazin",
+      "title": "Supreme Court halts ruling against Trump Clean Water Act rollback in 5-4 decision",
+      "description": "The Supreme Court has halted a prior court ruling that struck down a Trump-era rule that limited state and tribal authority to veto projects that could impact their waters, including pipelines.  The Trump rule in question, which was nixed by a federal court i…",
+      "url": "https://thehill.com/policy/equilibrium-sustainability/3260315-supreme-court-halts-ruling-against-trump-clean-water-act-rollback-in-5-4-decision/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2021/09/newsletter-supremecourt_090221getty.jpg?w=1280",
+      "publishedAt": "2022-04-06T14:18:04Z",
+      "content": "The Supreme Court has halted a prior court ruling that struck down a Trump-era rule that limited state and tribal authority to veto projects that could impact their waters, including pipelines. \r\nThe… [+1936 chars]"
+    }
+  ]
+}
